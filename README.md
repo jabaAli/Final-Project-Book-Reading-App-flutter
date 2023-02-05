@@ -19,3 +19,9 @@ Flamingo is an eBook (reading book) app design by flutter, at home page it shows
 ### eBook App Final UI
 
 ![App UI](/attachment.png)
+
+
+
+
+name jibril ALi Abdullahi
+id C119523
